@@ -2,4 +2,4 @@
 
 Excel con la descripción de todas las columnas.
 
-{% file src="../.gitbook/assets/feed de productos google shopping.xlsx" %}
+[https://docs.google.com/spreadsheets/d/1csDtXzVJhn6Yv8-HW3jZ29JFGgBllrji/edit?gid=2068060308#gid=2068060308](https://docs.google.com/spreadsheets/d/1csDtXzVJhn6Yv8-HW3jZ29JFGgBllrji/edit?gid=2068060308#gid=2068060308)
