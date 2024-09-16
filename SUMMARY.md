@@ -14,11 +14,10 @@
 * [Cómo dar los primeros pasos como CSS en Google](registrar-como-css/como-dar-los-primeros-pasos-como-css-en-google.md)
 * [Cómo empezar a mostrar productos en nombre de sus comerciantes](registrar-como-css/como-empezar-a-mostrar-productos-en-nombre-de-sus-comerciantes.md)
 
+## Feed de Productos
+
+* [Optimizaciones](feed-de-productos/optimizaciones.md)
+
 ## Creacion de campañas
 
 * [Page 1](creacion-de-campanas/page-1.md)
-
-## Feed de Productos
-
-* [Page](feed-de-productos/page.md)
-* [Optimizaciones](feed-de-productos/optimizaciones.md)
