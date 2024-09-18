@@ -19,4 +19,24 @@ Están mostrando:
 * Click en boton de comparar: lleva a pagina de detalle de producto.
 * Click en "Directamente a la tienda": lleva al enlace del producto de menor precio.
 
-#### sad
+#### 2 - Páginas diferentes para todas las categorías
+
+Ej: [https://bigshopper.es/category/bricolaje/?page=5](https://bigshopper.es/category/bricolaje/?page=5)
+
+* Veo bien que tienen páginas diferentes para cada categoría.
+* Luego esto permite enriquecer cada pagina con contenido con IA y "generar una especie de valor extra" (esto es mas que todo es para indexar en google esas urls y no sean Thin content)
+* Luego esto ayuda a los crawler de google a indexar mas urls de la web
+* El punto negativo es que no puedes hacer filtros con varias categorías al mismo tiempo, pero tampoco le veo mucho sentido la verdad.
+
+3 - Páginas diferentes para todos las marcas
+
+[https://bigshopper.es/brand/](https://bigshopper.es/brand/)
+
+* Esto deriva luego en páginas específicas por marca para sus productos
+* Esto mejora la estructura web.
+
+4- Paginas diferentes para todos los merchants
+
+* Lo mismo de marcas aplica a merchants
+
+5 - Pagina de promociones (productos con grandes descuentos, digamos mas de 20%)

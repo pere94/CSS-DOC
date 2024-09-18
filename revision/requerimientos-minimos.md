@@ -22,14 +22,14 @@ Ref: [https://support.google.com/css-center/answer/7524491?hl=es#CSS\_minimum](h
 * :white\_check\_mark: El sitio muestra productos y dirige a los usuarios a una página donde pueden comprarlos.
 * :white\_check\_mark: El sitio tiene un cuadro de búsqueda para escribir consultas.
 * :white\_check\_mark: Además, ofrece una función de búsqueda que se basa principalmente en un proceso dinámico y automático, y no depende demasiado de la tecnología de búsqueda cuya licencia o distribución pertenecen a Google.
-* :warning: Los resultados de búsqueda deben ser relevantes y útiles para la consulta de producto del usuario. Por ejemplo, la página de resultados permite al usuario avanzar en su tarea sin necesidad de hacer una consulta adicional.
+* :warning: (debemos mejorar la relevancia de la busqueda) Los resultados de búsqueda deben ser relevantes y útiles para la consulta de producto del usuario. Por ejemplo, la página de resultados permite al usuario avanzar en su tarea sin necesidad de hacer una consulta adicional.
 * :white\_check\_mark: El sitio ofrece opciones para ordenar
   * :white\_check\_mark: los resultados de productos por precio (tenemos relevancia y precio)
   * :warning: y al menos otra dimensión útil para los consumidores (tenemos relevancia, pero puede parecer ambiguo, agregaría nombre también por ahora)
 * Filtrar los resultados de productos por precio y al menos otra dimensión útil para los consumidores, Ej: la marca, el comerciante o el tiempo de envío.
   * :white\_check\_mark: Categorías
   * :white\_check\_mark: Comerciante
-  * :warning: Marca
+  * :warning: Marca (bigshopper lo tiene ya)
   * :white\_check\_mark: Precio
   * :warning: Tiempo de envío
   * :warning: Descuento
