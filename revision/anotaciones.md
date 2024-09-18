@@ -21,8 +21,8 @@ Están mostrando:
 
 #### 2 - Páginas diferentes para todas las categorías
 
-Ej: [https://bigshopper.es/category/bricolaje/?page=5](https://bigshopper.es/category/bricolaje/?page=5)
-
+* Ej: [https://bigshopper.es/category/](https://bigshopper.es/category/)
+* Ej: [https://bigshopper.es/category/bricolaje/?page=5](https://bigshopper.es/category/bricolaje/?page=5)
 * Veo bien que tienen páginas diferentes para cada categoría.
 * Luego esto permite enriquecer cada pagina con contenido con IA y "generar una especie de valor extra" (esto es mas que todo es para indexar en google esas urls y no sean Thin content)
 * Luego esto ayuda a los crawler de google a indexar mas urls de la web
@@ -30,13 +30,17 @@ Ej: [https://bigshopper.es/category/bricolaje/?page=5](https://bigshopper.es/cat
 
 3 - Páginas diferentes para todos las marcas
 
-[https://bigshopper.es/brand/](https://bigshopper.es/brand/)
-
+* Ej: [https://bigshopper.es/brand/](https://bigshopper.es/brand/)
+* Ej: [https://bigshopper.es/brand/abnet/](https://bigshopper.es/brand/abnet/)
 * Esto deriva luego en páginas específicas por marca para sus productos
 * Esto mejora la estructura web.
 
 4- Paginas diferentes para todos los merchants
 
+* Ej: [https://bigshopper.es/merchant/](https://bigshopper.es/merchant/)
+* Ej: [https://bigshopper.es/merchant/100-hardcore/](https://bigshopper.es/merchant/100-hardcore/)
 * Lo mismo de marcas aplica a merchants
 
 5 - Pagina de promociones (productos con grandes descuentos, digamos mas de 20%)
+
+* Ej: [https://bigshopper.es/promocion/](https://bigshopper.es/promocion/)
