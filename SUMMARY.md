@@ -21,3 +21,12 @@
 ## Creacion de campañas
 
 * [Page 1](creacion-de-campanas/page-1.md)
+
+## Revision
+
+* [Anotaciones](revision/anotaciones.md)
+* [Requerimientos Mínimos](revision/requerimientos-minimos.md)
+* [Requerimientos: Acerca de los requisitos de las páginas de producto de CSS](revision/requerimientos-acerca-de-los-requisitos-de-las-paginas-de-producto-de-css.md)
+* [Requerimientos: mostrar páginas de producto de CSS de forma destacada en los resultados de Google](revision/requerimientos-mostrar-paginas-de-producto-de-css-de-forma-destacada-en-los-resultados-de-google.md)
+* [Requerimientos: Mostrar productos en nombre de los comerciantes (orgánica y en anuncios)](revision/requerimientos-mostrar-productos-en-nombre-de-los-comerciantes-organica-y-en-anuncios.md)
+* [Acciones](revision/acciones.md)
