@@ -30,3 +30,7 @@
 * [Requerimientos: mostrar páginas de producto de CSS de forma destacada en los resultados de Google](revision/requerimientos-mostrar-paginas-de-producto-de-css-de-forma-destacada-en-los-resultados-de-google.md)
 * [Requerimientos: Mostrar productos en nombre de los comerciantes (orgánica y en anuncios)](revision/requerimientos-mostrar-productos-en-nombre-de-los-comerciantes-organica-y-en-anuncios.md)
 * [Acciones](revision/acciones.md)
+
+## API
+
+* [Anotaciones](api/anotaciones.md)
