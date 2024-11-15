@@ -34,6 +34,7 @@
 ## API
 
 * [Anotaciones](api/anotaciones.md)
+* [Consultas](api/consultas.md)
 
 ## Conversiones
 
