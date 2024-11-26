@@ -12,3 +12,7 @@ ENDPOINTS:&#x20;
 ***
 
 Solicitudes por lotes: [https://developers.google.com/shopping-content/guides/how-tos/batch?hl=es-419](https://developers.google.com/shopping-content/guides/how-tos/batch?hl=es-419)
+
+***
+
+LIB: [https://www.npmjs.com/package/@googleapis/content?activeTab=readme](https://www.npmjs.com/package/@googleapis/content?activeTab=readme)
