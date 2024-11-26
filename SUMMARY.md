@@ -37,6 +37,9 @@
 * [Consultas](api-google-ads/consultas.md)
 * [Conversiones multiples cuentas](api-google-ads/conversiones-multiples-cuentas.md)
 * [Notas importantes Google Ads](api-google-ads/notas-importantes-google-ads.md)
+* [Subir conversiones](api-google-ads/subir-conversiones.md)
+* [Monitorizacion de conversiones](api-google-ads/monitorizacion-de-conversiones.md)
+* [Notas sobre informes](api-google-ads/notas-sobre-informes.md)
 
 ## API GOOGLE MERCHANT
 

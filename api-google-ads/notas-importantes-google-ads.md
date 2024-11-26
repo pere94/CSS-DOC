@@ -15,3 +15,10 @@ REF: [https://support.google.com/google-ads/answer/7014069#prepare\_data](https:
 * Utiliza uno de los siguientes formatos para ingresar la zona horaria (no encierres la zona horaria con comillas ni con otros caracteres especiales):
   * Ingresa tu [ID de zona horaria](https://developers.google.com/google-ads/api/data/codes-formats#timezone_ids). Se recomienda usar este método para evitar errores durante las transiciones de horarios de verano. Ejemplo: Parameters:TimeZone=America/Chicago
   * Ingresa la diferencia horaria respecto de GMT. Para ello, utiliza los signos + o − y una cifra de 4 dígitos que indique la diferencia (por ejemplo, la diferencia de Nueva York es de -0500 y la de Berlín, de +0100). Si tu zona horaria corresponde a la hora del meridiano de Greenwich, simplemente ingresa +0000. Ejemplo: Parameters:TimeZone=-0500
+
+### Conversiones en los informes <a href="#conversions_in_reports" id="conversions_in_reports"></a>
+
+Ref: [https://developers.google.com/google-ads/api/docs/conversions/upload-clicks?hl=es-419](https://developers.google.com/google-ads/api/docs/conversions/upload-clicks?hl=es-419)
+
+* Las conversiones subidas se reflejan en los informes de la fecha de _impresión_ del clic original, no de la fecha de la solicitud de carga ni de la `conversion_date_time` de la [`ClickConversion`](https://developers.google.com/google-ads/api/reference/rpc/v18/ClickConversion?hl=es-419).
+* Las estadísticas de conversiones importadas pueden demorar hasta 3 horas en aparecer en tu cuenta de Google Ads para la atribución de último clic. En el caso de otros modelos de atribución de búsqueda, puede tardar más de 3 horas. Consulta la [guía de actualización de datos](https://support.google.com/google-ads/answer/2544985?hl=es-419) para obtener más información.
