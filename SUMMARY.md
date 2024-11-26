@@ -31,12 +31,13 @@
 * [Requerimientos: Mostrar productos en nombre de los comerciantes (orgánica y en anuncios)](revision/requerimientos-mostrar-productos-en-nombre-de-los-comerciantes-organica-y-en-anuncios.md)
 * [Acciones](revision/acciones.md)
 
-## API
+## API Google Ads
 
-* [Anotaciones](api/anotaciones.md)
-* [Consultas](api/consultas.md)
-* [Conversiones multiples cuentas](api/conversiones-multiples-cuentas.md)
+* [Anotaciones](api-google-ads/anotaciones.md)
+* [Consultas](api-google-ads/consultas.md)
+* [Conversiones multiples cuentas](api-google-ads/conversiones-multiples-cuentas.md)
+* [Notas importantes Google Ads](api-google-ads/notas-importantes-google-ads.md)
 
-## Conversiones
+## API GOOGLE MERCHANT
 
-* [Subida](conversiones/subida.md)
+* [Referencias](api-google-merchant/referencias.md)
